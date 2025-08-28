@@ -1,0 +1,511 @@
+{
+  "JNE5823947162": {
+    "courier": "JNE",
+    "service": "REG",
+    "status": "In Transit",
+    "history": [
+      {
+        "date": "2025-08-09 08:10",
+        "location": "Jakarta",
+        "status": "Shipment received by JNE"
+      },
+      {
+        "date": "2025-08-09 14:20",
+        "location": "Jakarta Hub",
+        "status": "Departed to Bandung"
+      },
+      {
+        "date": "2025-08-10 09:20",
+        "location": "Bandung Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-11 15:40",
+        "location": "Bandung Hub",
+        "status": "Departed to Surabaya"
+      }
+    ]
+  },
+  "JNE9472051386": {
+    "courier": "JNE",
+    "service": "YES",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-11 07:40",
+        "location": "Surabaya Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-12 08:10",
+        "location": "Surabaya Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-13 10:00",
+        "location": "Malang Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-13 16:30",
+        "location": "Malang",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "JNT1834925077": {
+    "courier": "J&T EXPRESS",
+    "service": "EZ",
+    "status": "On Delivery",
+    "history": [
+      {
+        "date": "2025-08-08 16:45",
+        "location": "Medan",
+        "status": "Shipment created"
+      },
+      {
+        "date": "2025-08-09 07:30",
+        "location": "Medan",
+        "status": "Picked up by courier"
+      },
+      {
+        "date": "2025-08-10 12:15",
+        "location": "Medan Hub",
+        "status": "Departed to Pekanbaru"
+      },
+      {
+        "date": "2025-08-11 08:55",
+        "location": "Pekanbaru",
+        "status": "Out for delivery"
+      }
+    ]
+  },
+  "JNT5208349176": {
+    "courier": "J&T EXPRESS",
+    "service": "JND",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-08 09:45",
+        "location": "Makassar",
+        "status": "Shipment received"
+      },
+      {
+        "date": "2025-08-09 14:30",
+        "location": "Makassar Hub",
+        "status": "Departed to Palu"
+      },
+      {
+        "date": "2025-08-10 10:00",
+        "location": "Palu Delivery Center",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-10 17:20",
+        "location": "Palu Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-10 19:40",
+        "location": "Palu",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "POS7923501846": {
+    "courier": "POS INDONESIA",
+    "service": "Pos Kilat Khusus",
+    "status": "Pending Pickup",
+    "history": [
+      {
+        "date": "2025-08-11 10:00",
+        "location": "Yogyakarta",
+        "status": "Pickup request created"
+      },
+      {
+        "date": "2025-08-11 16:30",
+        "location": "Yogyakarta",
+        "status": "Pickup scheduled"
+      }
+    ]
+  },
+  "POS6284719302": {
+    "courier": "POS INDONESIA",
+    "service": "Express Next Day",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-09 11:50",
+        "location": "Semarang",
+        "status": "Shipment accepted"
+      },
+      {
+        "date": "2025-08-10 07:20",
+        "location": "Semarang Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-10 14:10",
+        "location": "Semarang Hub",
+        "status": "Departed to Bali"
+      },
+      {
+        "date": "2025-08-12 09:30",
+        "location": "Denpasar Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-12 14:15",
+        "location": "Denpasar",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "TIKI9428374628": {
+    "courier": "TIKI",
+    "service": "REG",
+    "status": "In Transit",
+    "history": [
+      {
+        "date": "2025-08-07 08:00",
+        "location": "Balikpapan",
+        "status": "Shipment received"
+      },
+      {
+        "date": "2025-08-07 13:00",
+        "location": "Balikpapan Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-08 13:25",
+        "location": "Balikpapan Hub",
+        "status": "Departed to Samarinda"
+      }
+    ]
+  },
+  "TIKI4389275619": {
+    "courier": "TIKI",
+    "service": "ONS",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-09 07:10",
+        "location": "Samarinda Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-10 09:00",
+        "location": "Samarinda Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-10 10:50",
+        "location": "Samarinda Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-10 13:20",
+        "location": "Samarinda",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "SCP7183940521": {
+    "courier": "SI CEPAT",
+    "service": "REG",
+    "status": "On Delivery",
+    "history": [
+      {
+        "date": "2025-08-08 09:30",
+        "location": "Bogor",
+        "status": "Shipment received"
+      },
+      {
+        "date": "2025-08-08 15:00",
+        "location": "Bogor",
+        "status": "Picked up by courier"
+      },
+      {
+        "date": "2025-08-09 14:25",
+        "location": "Bogor Hub",
+        "status": "Departed to Depok"
+      }
+    ]
+  },
+  "SCP1092837465": {
+    "courier": "SI CEPAT",
+    "service": "BEST",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-10 08:00",
+        "location": "Depok Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-10 16:20",
+        "location": "Depok Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-11 11:15",
+        "location": "Depok Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-11 15:40",
+        "location": "Depok",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "NJX2849301754": {
+    "courier": "NINJA EXPRESS",
+    "service": "Ninja Fast",
+    "status": "Pending Pickup",
+    "history": [
+      {
+        "date": "2025-08-12 12:00",
+        "location": "Cirebon",
+        "status": "Pickup requested"
+      },
+      {
+        "date": "2025-08-12 18:30",
+        "location": "Cirebon",
+        "status": "Pickup scheduled"
+      }
+    ]
+  },
+  "NJX3029841756": {
+    "courier": "NINJA EXPRESS",
+    "service": "Ninja Reguler",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-13 08:25",
+        "location": "Cirebon Hub",
+        "status": "Departed to Solo"
+      },
+      {
+        "date": "2025-08-14 09:30",
+        "location": "Solo Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-14 12:00",
+        "location": "Solo Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-14 17:00",
+        "location": "Solo",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "PXL8291746051": {
+    "courier": "PAXEL",
+    "service": "Same Day",
+    "status": "In Transit",
+    "history": [
+      {
+        "date": "2025-08-09 09:10",
+        "location": "Bandung",
+        "status": "Shipment created"
+      },
+      {
+        "date": "2025-08-09 14:40",
+        "location": "Bandung",
+        "status": "Picked up by courier"
+      },
+      {
+        "date": "2025-08-10 08:30",
+        "location": "Bandung Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-10 14:40",
+        "location": "Bandung Hub",
+        "status": "Departed to Jakarta"
+      }
+    ]
+  },
+  "PXL9182736402": {
+    "courier": "PAXEL",
+    "service": "Instant",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-11 10:00",
+        "location": "Jakarta Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-11 18:00",
+        "location": "Jakarta Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-12 15:30",
+        "location": "Jakarta Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-12 19:00",
+        "location": "Jakarta",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "LPC6172839405": {
+    "courier": "LION PARCEL",
+    "service": "REGPACK",
+    "status": "On Delivery",
+    "history": [
+      {
+        "date": "2025-08-07 08:45",
+        "location": "Makassar",
+        "status": "Shipment received"
+      },
+      {
+        "date": "2025-08-07 15:00",
+        "location": "Makassar",
+        "status": "Picked up by courier"
+      },
+      {
+        "date": "2025-08-08 16:20",
+        "location": "Makassar Hub",
+        "status": "Departed to Kendari"
+      }
+    ]
+  },
+  "LPC7029384617": {
+    "courier": "LION PARCEL",
+    "service": "ONEPACK",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-09 11:00",
+        "location": "Kendari Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-10 08:00",
+        "location": "Kendari Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-10 13:45",
+        "location": "Kendari Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-10 18:20",
+        "location": "Kendari",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "ATR5092837462": {
+    "courier": "ANTERAJA",
+    "service": "REG",
+    "status": "Pending Pickup",
+    "history": [
+      {
+        "date": "2025-08-12 09:00",
+        "location": "Jakarta",
+        "status": "Pickup request created"
+      },
+      {
+        "date": "2025-08-12 14:20",
+        "location": "Jakarta",
+        "status": "Pickup scheduled"
+      }
+    ]
+  },
+  "ATR4081729364": {
+    "courier": "ANTERAJA",
+    "service": "NEXT DAY",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-13 10:30",
+        "location": "Jakarta Hub",
+        "status": "Departed to Bogor"
+      },
+      {
+        "date": "2025-08-14 09:10",
+        "location": "Bogor Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-14 12:40",
+        "location": "Bogor Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-14 16:00",
+        "location": "Bogor",
+        "status": "Delivered to recipient"
+      }
+    ]
+  },
+
+  "SPX1129384756": {
+    "courier": "SHOPEE EXPRESS",
+    "service": "Standard",
+    "status": "In Transit",
+    "history": [
+      {
+        "date": "2025-08-08 11:30",
+        "location": "Bekasi",
+        "status": "Shipment received"
+      },
+      {
+        "date": "2025-08-08 18:20",
+        "location": "Bekasi",
+        "status": "Picked up by courier"
+      },
+      {
+        "date": "2025-08-09 15:20",
+        "location": "Bekasi Hub",
+        "status": "Departed to Tangerang"
+      }
+    ]
+  },
+  "SPX3348291750": {
+    "courier": "SHOPEE EXPRESS",
+    "service": "Instant",
+    "status": "Delivered",
+    "history": [
+      {
+        "date": "2025-08-10 09:15",
+        "location": "Tangerang Hub",
+        "status": "Arrived at hub"
+      },
+      {
+        "date": "2025-08-10 18:10",
+        "location": "Tangerang Hub",
+        "status": "Sorting completed"
+      },
+      {
+        "date": "2025-08-11 13:50",
+        "location": "Tangerang Delivery Center",
+        "status": "Out for delivery"
+      },
+      {
+        "date": "2025-08-11 17:10",
+        "location": "Tangerang",
+        "status": "Delivered to recipient"
+      }
+    ]
+  }
+}

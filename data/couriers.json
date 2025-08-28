@@ -1,0 +1,122 @@
+[
+  {
+    "id": "JNE001",
+    "name": "JNE",
+    "code": "JNE",
+    "awbPattern": "^\\d{10,15}$",
+    "color": "bg-red-500",
+    "phone": "1500-026",
+    "email": "customercare@jne.co.id",
+    "img": "jne.png",
+    "fullimg": "jnefull.png",
+    "website": "https://www.jne.co.id/"
+  },
+  {
+    "id": "JNT001",
+    "name": "J&T Express",
+    "code": "JNT",
+    "awbPattern": "^(JT|JP)\\d{10,13}$",
+    "color": "bg-red-500",
+    "phone": "1500-322",
+    "email": "cs@jet.co.id",
+    "img": "jnt.png",
+    "fullimg": "jntfull.png",
+    "website": "https://www.jet.co.id"
+  },
+  {
+    "id": "SPX001",
+    "name": "Shopee Express",
+    "code": "SPX",
+    "awbPattern": "^(SPX|SHOPEE)\\d{10,15}$",
+    "color": "bg-pink-500",
+    "phone": "1500-702",
+    "email": "support@shopee.com",
+    "img": "spx.png",
+    "fullimg": "spxfull.png",
+    "website": "https://www.spx.co.id/id"
+  },
+  {
+    "id": "POS001",
+    "name": "Pos Indonesia",
+    "code": "POS",
+    "awbPattern": "^(P|PK|EX)\\d{8,12}$",
+    "color": "bg-blue-500",
+    "phone": "1500-161",
+    "email": "halopos@posindonesia.co.id",
+    "img": "pos.png",
+    "fullimg": "posfull.png",
+    "website": "https://www.posindonesia.co.id/en"
+  },
+  {
+    "id": "TIKI001",
+    "name": "TIKI",
+    "code": "TIKI",
+    "awbPattern": "^\\d{12,15}$",
+    "color": "bg-yellow-500",
+    "phone": "1500-125",
+    "email": "customercare@tiki.id",
+    "img": "tiki.png",
+    "fullimg": "tikifull.png",
+    "website": "https://www.tiki.id/id/beranda"
+  },
+  {
+    "id": "NINJA001",
+    "name": "Ninja Express",
+    "code": "NINJA",
+    "awbPattern": "^(NJ|NE)\\d{10,12}$",
+    "color": "bg-purple-500",
+    "phone": "1500-639",
+    "email": "cs@ninjavan.co",
+    "img": "ninja.png",
+    "fullimg": "ninjafull.png",
+    "website": "https://www.ninjaxpress.co/id-id"
+  },
+  {
+    "id": "SICEPAT001",
+    "name": "Si Cepat",
+    "code": "SICEPAT",
+    "awbPattern": "^(SC|SI)\\d{10,12}$",
+    "color": "bg-green-500",
+    "phone": "021-5020-0050",
+    "email": "cs@sicepat.com",
+    "img": "sicepat.png",
+    "fullimg": "sicepatfull.png",
+    "website": "https://www.sicepat.com"
+  },
+  {
+    "id": "PAXEL001",
+    "name": "Paxel",
+    "code": "PAXEL",
+    "awbPattern": "^(PX|PA)\\d{10,12}$",
+    "color": "bg-orange-500",
+    "phone": "1500-180",
+    "email": "help@paxel.co",
+    "img": "paxel.png",
+    "fullimg": "paxelfull.png",
+    "website": "https://www.paxel.co"
+  },
+  {
+    "id": "LION001",
+    "name": "Lion Parcel",
+    "code": "LION",
+    "awbPattern": "^(LP|LE)\\d{10,12}$",
+    "color": "bg-blue-500",
+    "phone": "1500-391",
+    "email": "cs@lionparcel.com",
+    "img": "lionparcel.png",
+    "fullimg": "lionparcelfull.png",
+    "website": "https://www.lionparcel.com"
+  },
+  {
+    "id": "ANTERAJA001",
+    "name": "Anter Aja",
+    "code": "ANTERAJA",
+    "awbPattern": "^(AA|AJ)\\d{10,12}$",
+    "color": "bg-teal-500",
+    "phone": "021-50-600-800",
+    "email": "cs@anteraja.id",
+    "img": "anteraja.png",
+    "fullimg": "anterajafull.png",
+    "website": "https://www.anteraja.id/id/"
+  }
+]
